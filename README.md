@@ -8,4 +8,5 @@ Run the program by using `dotnet run`, you will then be prompted a few options t
 The type the number of the option into your console and hit `enter`.
 
 Example:
+
 ![Exmaple image of CLI](image.png)
